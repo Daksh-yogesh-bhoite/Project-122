@@ -1,0 +1,51 @@
+body{
+    background-color: red;
+}
+
+#google_img{
+    height: 125px;
+    width: 375px;
+}
+
+#title{
+    font-weight: bold;
+    color: red;
+}
+
+#vs_img{
+    height: 125px;
+    width: 125px;
+}
+
+#mobilenet_img{
+    height: 125px;
+    width: 450px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+  }
+
+.test_image_and_result{ 
+    width: 100%; 
+    padding: 30px;   
+    background-color: greenyellow;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+
+
+
+
+
+
+
+
+
+
